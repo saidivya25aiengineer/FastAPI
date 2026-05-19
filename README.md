@@ -1,2 +1,2 @@
 # FastAPI
-Fast API and its uses
+Fast API and its appications
